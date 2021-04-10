@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/github/issues/Gabriel-Alexander10/Gobarber-backend" alt="issues" />
     <img src="https://img.shields.io/github/forks/Gabriel-Alexander10/Gobarber-backend" alt="forks" />
     <img src="https://img.shields.io/github/stars/Gabriel-Alexander10/Gobarber-backend" alt="stars" />
+    <img src="https://img.shields.io/github/license/Gabriel-Alexander10/Gobarber-backend" alt="license" />
 </p>
 
 <p align="center">
